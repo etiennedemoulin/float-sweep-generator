@@ -12,5 +12,6 @@
     "@ircam/sc-components": "^3.0.0-alpha.61",
     "lit": "^3.1.4"
   },
-  "name": "float-sweep-generator"
+  "name": "float-sweep-generator",
+  "version": "1.0.0"
 }
