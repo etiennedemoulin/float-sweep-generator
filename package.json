@@ -14,5 +14,5 @@
     "lit": "^3.1.4"
   },
   "name": "float-sweep-generator",
-  "version": "1.0.0"
+  "version": "1.1.0"
 }
